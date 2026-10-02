@@ -4,7 +4,7 @@
     "model_dtype": "float32",
     "model_link": "https://huggingface.co/yhatlabs/ChakraTS-Lab",
     "code_link": "",
-    "org": "Y-Hat Labs",
+    "org": "YHat Labs",
     "testdata_leakage": "No",
     "replication_code_available": "No"
 }

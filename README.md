@@ -1,4 +1,4 @@
-# Y-Hat Labs
+# YHat Labs
 
 Prediction models for structured data, served through a hosted API.
 
@@ -22,4 +22,4 @@ A Python client (`pip install yhatlabs`) will be published here once the API sur
 
 ## License
 
-The code and result files in this repository are released under the [Apache License 2.0](LICENSE). The models are not distributed; they are served through the API under the Y-Hat Labs API terms.
+The code and result files in this repository are released under the [Apache License 2.0](LICENSE). The models are not distributed; they are served through the API under the YHat Labs API terms.

@@ -4,7 +4,7 @@
     "model_dtype": "float32",
     "model_link": "https://huggingface.co/yhatlabs/ChakraTS",
     "code_link": "https://github.com/yhatlabs/yhatlabs/blob/main/notebooks/gift_eval_reproduce.ipynb",
-    "org": "Y-Hat Labs",
+    "org": "YHat Labs",
     "testdata_leakage": "No",
     "replication_code_available": "Yes"
 }
