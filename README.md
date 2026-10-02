@@ -15,8 +15,7 @@ API access: https://yhatlabs.com
 - `benchmarks/` result files exactly as submitted to the public leaderboards.
   - `gift_eval/<entry>/all_results.csv` + `config.json`: [GIFT-Eval](https://github.com/SalesforceAIResearch/gift-eval) format, 97 dataset configurations.
 - `notebooks/`
-  - `gift_eval_reproduce.ipynb`: regenerates a GIFT-Eval `all_results.csv` by calling the API (standard `gift_eval` data loading and `gluonts` metrics). Needs an API key; evaluation keys are issued on request.
-  - `gift_configs.csv`: the 97 dataset / frequency / term configurations.
+  - `gift_eval_reproduce.ipynb`: regenerates the GIFT-Eval `all_results.csv` by calling the API (official `gift_eval` data loading and `gluonts` metrics). Run it from the `notebooks/` folder of the [gift-eval](https://github.com/SalesforceAIResearch/gift-eval) repository; it starts with a quick subset and prints each rerun next to the submitted row. Needs an API key; evaluation keys are issued on request.
 
 A Python client (`pip install yhatlabs`) will be published here once the API surface is final.
 
