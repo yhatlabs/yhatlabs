@@ -4,9 +4,9 @@ Foundation AI models for tabular data, served through a hosted API. Send your da
 
 | Model | What it does | Card | Access |
 |---|---|---|---|
-| **ChakraTS** | zero-shot probabilistic time-series forecasting: nine quantiles per step, known-future covariates, any regular frequency | https://huggingface.co/yhatlabs/ChakraTS | API |
-| **ChakraTab** | classification and regression on tables, with class probabilities | https://huggingface.co/yhatlabs/ChakraTab | API |
-| **ChakraTS-Lab** | research configuration of ChakraTS, benchmark entries only | https://huggingface.co/yhatlabs/ChakraTS-Lab | evaluation on request |
+| **ChakraTS** | Zero-shot probabilistic time-series forecasting: nine quantiles per step, known-future covariates, any regular frequency | https://huggingface.co/yhatlabs/ChakraTS | API |
+| **ChakraTab** | Classification and regression on tables, with class probabilities | https://huggingface.co/yhatlabs/ChakraTab | API |
+| **ChakraTS-Lab** | Research configuration of ChakraTS, benchmark entries only | https://huggingface.co/yhatlabs/ChakraTS-Lab | evaluation on request |
 
 Website and results: https://yhatlabs.com/models · API access: https://yhatlabs.com/models/access
 
