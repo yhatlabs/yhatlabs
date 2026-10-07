@@ -15,7 +15,7 @@ Website and results: https://yhatlabs.com/models · API access: https://yhatlabs
 | Benchmark | Model | Standing | Status |
 |---|---|---|---|
 | [fev-bench](https://huggingface.co/spaces/autogluon/fev-bench) (Amazon) | ChakraTS | 1st by win rate (85.5%), 2nd by skill score | merged, [autogluon/fev #192](https://github.com/autogluon/fev/pull/192) |
-| [TIME](https://huggingface.co/spaces/Real-TSF/TIME-Leaderboard) (ICML 2026) | ChakraTS | 2nd of 31 | published, [Real-TSF/TIME-Output PR #46](https://huggingface.co/datasets/Real-TSF/TIME-Output/discussions/46) |
+| [TIME](https://huggingface.co/spaces/Real-TSF/TIME-leaderboard) (ICML 2026) | ChakraTS | 2nd of 31 | published, [Real-TSF/TIME-Output PR #46](https://huggingface.co/datasets/Real-TSF/TIME-Output/discussions/46) |
 | [GIFT-Eval](https://huggingface.co/spaces/Salesforce/GIFT-Eval) (Salesforce) | ChakraTS | 3rd overall | under review |
 | [TabArena](https://tabarena.ai) | ChakraTab | top 5 | under review |
 
